@@ -1,0 +1,17 @@
+6	0	Wigglys
+7	1	Big red
+8	2	Hersheys chocolate
+9	3	Twix
+10	4	Snickers
+17	5	Tic tac
+18	6	Dentyne ice
+26	7	Starburst
+32	8	Rockstar energy drink
+34	9	Crunch
+35	10	Lays chips
+44	11	Milano biscuits
+46	12	Starbucks frappucino
+50	13	Obertos beef jerky
+61	14	Honey nut cheerios
+72	15	Tostitos scoops
+74	16	Ruffles
